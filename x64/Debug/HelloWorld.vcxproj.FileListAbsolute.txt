@@ -1,0 +1,2 @@
+E:\Munkák\Programming\C\2023\HelloWorld\x64\Debug\HelloWorld.exe
+E:\Munkák\Programming\C\HelloWorld\x64\Debug\HelloWorld.exe
